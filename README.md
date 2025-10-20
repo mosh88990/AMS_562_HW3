@@ -1,1 +1,1 @@
-
+This repository contains classes for Point, Line, Rectangle, and Square objects. There is a testfile to test the methods used in these classes, in order to run it use the 'make' command and then run the executable file.
